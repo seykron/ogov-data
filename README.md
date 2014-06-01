@@ -16,20 +16,30 @@ These datasets will be updated the first Sunday of the month.
 
 ## Stats
 
-Bills: 70451 items, 278 MB uncompressed.
+bills:
 
-Committees: 67 items, 280 KB uncompressed.
+* SHA: 4472b43519b38bf646e95b921b15e477fe712875
+* Items: 109534
+* Size (uncompressed): 466M
+* Size (compressed): 20M
 
-People: 332 items, 1.3 MB uncompressed.
+committees:
 
-Vote: 492 items, 8.4 MB uncompressed.
+* SHA: cefe7977346524621bce0dab524a7644167c2244
+* Items: 64
+* Size (uncompressed): 288K
+* Size (compressed): 24K
 
-## Integrity check (sha1)
+people:
 
-a93ba891f7621a52480b92f1a16e8ff39d0f9677  bills.tar.gz
+* SHA: cd7f5cee1a95cb48012af053b6cb0055b57c3e19
+* Items: 329
+* Size (uncompressed): 1.3M
+* Size (compressed): 48K
 
-3e21c9822f6d4699dc90357944bdf7da2494ff51  committees.tar.gz
+vote:
 
-5b9904c9774ad972592b3622add7af141608fb42  people.tar.gz
-
-2b8ca36902e2d5efe69eb9ae86c40462beb1240d  vote.tar.gz
+* SHA: ea429b3663f9b6651664aa7643b76f2d6f76eca1
+* Items: 489
+* Size (uncompressed): 8.4M
+* Size (compressed): 704K
