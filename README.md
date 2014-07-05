@@ -20,10 +20,10 @@ Last update: 2014-06-14 11:45am
 
 bills:
 
-* SHA: a19113e93f388ca2e5a51693f5647b873ac80d7a
-* Items: 120760
-* Size (uncompressed): 510M
-* Size (compressed): 22M
+* SHA: b80279460e102348e34655a083e2b87629f2b5db
+* Items: 162616
+* Size (uncompressed): 674M
+* Size (compressed): 31M
 
 committees:
 
