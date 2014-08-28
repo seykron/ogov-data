@@ -12,9 +12,9 @@ The data is imported using [ogov-importer](https://github.com/seykron/ogov-impor
 
 ## Update policy
 
-These datasets will be updated the first Sunday of the month.
+These datasets will be updated the first Sunday of the month (whenever possible).
 
-Last update: 2014-06-14 11:45am
+Last update: 2014-08-28 00:30am
 
 ## Datasets
 
